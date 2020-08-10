@@ -1,0 +1,14 @@
+Package: com.mrrhak.cydiarepo.sodahs17
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Mrr Hak <contact@mrrhak.com>
+Depends: firmware (>10.0), mobilesubstrate
+Filename: ./debs/com.mrrhak.cydiarepo.sodahs17.deb
+Size: 2,464,352
+MD5sum: e2fe5033b70f238a13131ed549d35d22
+SHA1: 4539abe2cf4d037c32c33e4c36f74938e6fd636e
+SHA256: 0235fb5a5f3730177a8d8581fff712c5e9b15993e20a4120afe0010861507f84
+Section: Widgets
+Description: a simple style widget by mrr hak
+Author: Mrr Hak <contact@mrrhak.com>
+Name: Soda HS 17 (Mrr Hak)
