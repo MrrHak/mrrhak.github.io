@@ -2,7 +2,7 @@ Package: com.mrrhak.cydiarepo.sodahs17
 Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: Mrr Hak <contact@mrrhak.com>
-Filename: ./debs/com.mrrhak.cydiarepo.sodahs17.deb
+Filename: /debs/com.mrrhak.cydiarepo.sodahs17.deb
 Size: 2465792
 MD5sum: e2fe5033b70f238a13131ed549d35d22
 SHA1: 4539abe2cf4d037c32c33e4c36f74938e6fd636e
