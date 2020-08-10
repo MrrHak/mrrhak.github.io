@@ -2,11 +2,11 @@ Package: com.mrrhak.cydiarepo.sodahs17
 Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: Mrr Hak <contact@mrrhak.com>
-Filename: /debs/com.mrrhak.cydiarepo.sodahs17.deb
-Size: 2465792
-MD5sum: e2fe5033b70f238a13131ed549d35d22
-SHA1: 4539abe2cf4d037c32c33e4c36f74938e6fd636e
-SHA256: 0235fb5a5f3730177a8d8581fff712c5e9b15993e20a4120afe0010861507f84
+Filename: ./debs/com.mrrhak.cydiarepo.sodahs17.deb
+Size: 2464374
+MD5sum: 10482b351d7c714440a039f31bf8905e
+SHA1: dfe2c730f51d96a7ee029f74db4c3f2951b5c0d0
+SHA256: 5a3b40c2545884369294b1a7508425b9735e94a0e069fbb3b1196bf9c44e5464
 Section: Widgets
 Description: a simple style widget by mrr hak
 Author: Mrr Hak <contact@mrrhak.com>
