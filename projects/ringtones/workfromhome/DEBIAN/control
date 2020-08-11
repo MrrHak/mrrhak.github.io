@@ -1,0 +1,10 @@
+Package: com.mrrhak.cydiarepo.ringtones.workfromhome
+Name: Work From Home
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Work From Home Remix by Bob Baldwin
+Homepage: http://www.mrrhak.com
+Depiction: http://www.mrrhak.com
+Maintainer: Mrr Hak's Repo <contact@mrrhak.com>
+Author: Mrr Hak <contact@mrrhak.com>
+Section: Ringtones

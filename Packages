@@ -1,16 +1,96 @@
-Package: com.mrrhak.cydiarepo.mrrhakcode
+Package: com.mrrhak.cydiarepo.ringtones.astronomiacoffindancememe
 Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: Mrr Hak's Repo <contact@mrrhak.com>
-Filename: ./debs/com.mrrhak.cydiarepo.mrrhakcode_1.0.0_iphoneos-arm.deb
-Size: 2464286
-MD5sum: 74058fa5ae100a4c51900b2b907d05ac
-SHA1: e74e12878da2fd522fe4fccc0cfe9bf79d38b5ba
-SHA256: 5354055372647f53bc65dd01477c8520e7206d49ac57747f81c534fc150d2d0b
+Filename: ./debs/com.mrrhak.cydiarepo.ringtones.astronomiacoffindancememe_1.0.0_iphoneos-arm.deb
+Size: 507816
+MD5sum: c363da2d7afbd0f75501b60f04cc060a
+SHA1: 4ecdddfcb318d1ebb67cd24ed30547d0c266b7c2
+SHA256: 0ca9490f658c444ef77508af746bff99391085b67fd1991c8392069b03d204f1
+Section: Ringtones
+Homepage: http://www.mrrhak.com
+Description: Astronomia Coffin Dance Meme 2020
+Author: Mrr Hak <contact@mrrhak.com>
+Depiction: http://www.mrrhak.com
+Name: Astronomia Coffin Dance Meme
+
+Package: com.mrrhak.cydiarepo.ringtones.dancemonkey
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Mrr Hak's Repo <contact@mrrhak.com>
+Filename: ./debs/com.mrrhak.cydiarepo.ringtones.dancemonkey_1.0.0_iphoneos-arm.deb
+Size: 474204
+MD5sum: af2c79be7eb99646b4a2237ae9c149dd
+SHA1: 7848dec98740aea39a67a99486ccb6ac4d922302
+SHA256: 2b1a50c55406a2292fa57855147e546d5ba9d73fd9fbd18c326811ad5174ea77
+Section: Ringtones
+Homepage: http://www.mrrhak.com
+Description: Dance Monkey by Marimba Remix
+Author: Mrr Hak <contact@mrrhak.com>
+Depiction: http://www.mrrhak.com
+Name: Dance Monkey
+
+Package: com.mrrhak.cydiarepo.ringtones.firebts
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Mrr Hak's Repo <contact@mrrhak.com>
+Filename: ./debs/com.mrrhak.cydiarepo.ringtones.firebts_1.0.0_iphoneos-arm.deb
+Size: 482794
+MD5sum: 2c1355a8d275c152a7a62bab21c821f0
+SHA1: 385b3fdf31ca85ab477a47fd6ace21f60352b42c
+SHA256: 6a0a91f0a181ab19e6c4f131c530a9011fbd62c459caa053c17114c909e92b46
+Section: Ringtones
+Homepage: http://www.mrrhak.com
+Description: by Unknown
+Author: Mrr Hak <contact@mrrhak.com>
+Depiction: http://www.mrrhak.com
+Name: Fire BTS
+
+Package: com.mrrhak.cydiarepo.ringtones.migente
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Mrr Hak's Repo <contact@mrrhak.com>
+Filename: ./debs/com.mrrhak.cydiarepo.ringtones.migente_1.0.0_iphoneos-arm.deb
+Size: 382924
+MD5sum: 590cf0d01796d78eee4d5edb70f19c5f
+SHA1: 157bc59c86451887ffc0351fad42eac05fc556f7
+SHA256: e1411ab33d6544096f3bf08131ba156d0deec88b0a6e6ebd55fb1107430166f8
+Section: Ringtones
+Homepage: http://www.mrrhak.com
+Description: Mi Gente by Marimba Remix
+Author: Mrr Hak <contact@mrrhak.com>
+Depiction: http://www.mrrhak.com
+Name: Mi Gente
+
+Package: com.mrrhak.cydiarepo.ringtones.workfromhome
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Mrr Hak's Repo <contact@mrrhak.com>
+Filename: ./debs/com.mrrhak.cydiarepo.ringtones.workfromhome_1.0.0_iphoneos-arm.deb
+Size: 517340
+MD5sum: 426bde37265699094fd84f4ae0710bd9
+SHA1: b08084ec30aea01a80f455f684b77ca7e6f2f3ab
+SHA256: 1650fb9bb80bda337a33a675dd7656725bfaefa310cc20c43a65f4cf784be001
+Section: Ringtones
+Homepage: http://www.mrrhak.com
+Description: Work From Home Remix by Bob Baldwin
+Author: Mrr Hak <contact@mrrhak.com>
+Depiction: http://www.mrrhak.com
+Name: Work From Home
+
+Package: com.mrrhak.cydiarepo.widgets.mrrhakhomewidget
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Mrr Hak's Repo <contact@mrrhak.com>
+Filename: ./debs/com.mrrhak.cydiarepo.widgets.mrrhakhomewidget_1.0.0_iphoneos-arm.deb
+Size: 2464156
+MD5sum: 9dc9ee9dd1e9dd2263c61c828b5ca3d4
+SHA1: d1aaceb3ec3af0ee84e6874ff79326b3a1a53b70
+SHA256: 5143bbfc17317c7f16b3e764c4d430600b095ebbd4d1399dae2a1902b223479b
 Section: Widgets
 Homepage: http://www.mrrhak.com
 Description: A simple widget style
 Author: Mrr Hak <contact@mrrhak.com>
 Depiction: http://www.mrrhak.com
-Name: Mrr Hak Code
+Name: Mrr Hak Home Widget (Xen HTML)
 

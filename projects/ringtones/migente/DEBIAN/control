@@ -1,10 +1,10 @@
-Package: com.mrrhak.cydiarepo.mrrhakcode
-Name: Mrr Hak Code
+Package: com.mrrhak.cydiarepo.ringtones.migente
+Name: Mi Gente
 Version: 1.0.0
 Architecture: iphoneos-arm
-Description: A simple widget style
+Description: Mi Gente by Marimba Remix
 Homepage: http://www.mrrhak.com
 Depiction: http://www.mrrhak.com
 Maintainer: Mrr Hak's Repo <contact@mrrhak.com>
 Author: Mrr Hak <contact@mrrhak.com>
-Section: Widgets
+Section: Ringtones
