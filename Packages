@@ -1,0 +1,16 @@
+Package: com.mrrhak.cydiarepo.mrrhakcode
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Mrr Hak's Repo <contact@mrrhak.com>
+Filename: ./debs/com.mrrhak.cydiarepo.mrrhakcode_1.0.0_iphoneos-arm.deb
+Size: 2464124
+MD5sum: b4673cdb4ccd90acf4f9c81256de09f9
+SHA1: fd88d5f258833abb61ed83ed0e00ce55c9ac9a44
+SHA256: 9b31dee7eeefbb6e42e8a80f002aa426fb6a32e0dd4af46c017c3e0f53fe652b
+Section: Widgets
+Homepage: http://www.mrrhak.com
+Description: A simple widget style
+Author: Mrr Hak <contact@mrrhak.com>
+Depiction: http://www.mrrhak.com
+Name: Mrr Hak Code
+
