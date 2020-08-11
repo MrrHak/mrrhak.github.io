@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: Mrr Hak's Repo <contact@mrrhak.com>
 Filename: ./debs/com.mrrhak.cydiarepo.mrrhakcode_1.0.0_iphoneos-arm.deb
 Size: 2464286
-MD5sum: c1c644617269f69f72bdf65a5ae4caaf
-SHA1: eca19b26b97e7c33c73622d0675029189af1d37e
-SHA256: e98b2939512359fed26dfa141869213312b6ad5cee27403deba1cb35ad56eec4
+MD5sum: 74058fa5ae100a4c51900b2b907d05ac
+SHA1: e74e12878da2fd522fe4fccc0cfe9bf79d38b5ba
+SHA256: 5354055372647f53bc65dd01477c8520e7206d49ac57747f81c534fc150d2d0b
 Section: Widgets
 Homepage: http://www.mrrhak.com
 Description: A simple widget style
