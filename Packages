@@ -83,10 +83,10 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: Mrr Hak's Repo <contact@mrrhak.com>
 Filename: ./debs/com.mrrhak.cydiarepo.widgets.mrrhakhomewidget_1.0.0_iphoneos-arm.deb
-Size: 2464156
-MD5sum: 9dc9ee9dd1e9dd2263c61c828b5ca3d4
-SHA1: d1aaceb3ec3af0ee84e6874ff79326b3a1a53b70
-SHA256: 5143bbfc17317c7f16b3e764c4d430600b095ebbd4d1399dae2a1902b223479b
+Size: 2464250
+MD5sum: b7fe5d76f1ecc9cec6d9a72f47ea239c
+SHA1: 3aa7434859095bcc95c269a790bb713a3f61d226
+SHA256: 566550daac02542ef590ad0d9ef729d5abbb23e1c616ab32fcbbd6c62a127242
 Section: Widgets
 Homepage: http://www.mrrhak.com
 Description: A simple widget style
